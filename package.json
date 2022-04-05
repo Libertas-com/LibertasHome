@@ -1,7 +1,7 @@
 {
 	"name": "mobile-apps-theme",
 	"version": "2.2.0",
-	"description": "Luxi ReactJs Mobile Apss Theme",
+	"description": "HeyBoss ReactJs Mobile Apss Theme",
 	"keywords": [
 		"mobile",
 		"apps",
@@ -9,7 +9,7 @@
 		"software",
 		"apps"
 	],
-	"author": "Luxi Theme",
+	"author": "HEYBOSS Theme",
 	"license": "Envato",
 	"main": "index.js",
 	"private": true,
